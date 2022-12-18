@@ -1,0 +1,41 @@
+#masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#about {
+  background-color: #EAE7DC;
+  padding: 128px 16px;
+}
+
+/* Contact section */
+#grades {
+  background-color: #FEFFFF;
+  padding: 84px 16px;
+}
+
+/* Skills section progress bars */
+.progress {
+  background-color: white !important;
+  height:40px;
+  width: 800px;
+  max-width: 100%;
+  margin-left: auto; margin-right:auto;
+}
+
+#skills {
+  background-color: #EAE7DC;
+}
+
+#projects {
+  background-color: #FEFFFF;
+  padding: 100px 16px;
+}
+
+#contact
+{
+  background-color: #EAE7DC;
+}
